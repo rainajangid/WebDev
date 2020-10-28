@@ -13,17 +13,16 @@
 }
 .fa {
   display: inline-block;
-  font: normal normal normal 14px/1 FontAwesome;
+  font: normal  14px/1 ;
   font-size: inherit;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
+  text-]g: auto;
+  -webkit antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
-  font-size: 1.33333333em;
-  line-height: 0.75em;
-  vertical-align: -15%;
+  ;
+ %;
 }
 .fa-2x {
   font-size: 2em;

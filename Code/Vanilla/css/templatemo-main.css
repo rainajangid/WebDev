@@ -54,8 +54,7 @@ a:hover { color: #FF0; }
   border-radius: 15px;
 }
 .fixed-side-navbar .nav > li a.active {
-  background-color: transparent;
-  color: black;
+ 
 }
 .fixed-side-navbar .nav > li a.active:after {
   -webkit-transform: scale(0.9);
